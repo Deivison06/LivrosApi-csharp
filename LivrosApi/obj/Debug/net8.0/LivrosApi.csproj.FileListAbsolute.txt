@@ -30,3 +30,4 @@ C:\Users\Deivison Dev\projetos\WebApi8-\LivrosApi\obj\Debug\net8.0\refint\Livros
 C:\Users\Deivison Dev\projetos\WebApi8-\LivrosApi\obj\Debug\net8.0\LivrosApi.pdb
 C:\Users\Deivison Dev\projetos\WebApi8-\LivrosApi\obj\Debug\net8.0\LivrosApi.genruntimeconfig.cache
 C:\Users\Deivison Dev\projetos\WebApi8-\LivrosApi\obj\Debug\net8.0\ref\LivrosApi.dll
+C:\Users\Deivison Dev\projetos\WebApi8-\LivrosApi\obj\Debug\net8.0\LivrosApi.sourcelink.json
