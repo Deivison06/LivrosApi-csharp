@@ -1,4 +1,6 @@
-﻿namespace LivrosApi.Models;
+﻿using System.Text.Json.Serialization;
+
+namespace LivrosApi.Models;
 
 public class Autor
 {
@@ -7,7 +9,8 @@ public class Autor
     public string Nome { get; set; }
     
     public string Sobrenome { get; set; }
-
+    
+    [JsonIgnore]
     public ICollection<Livro> Livros { get; set; }
 
 }
