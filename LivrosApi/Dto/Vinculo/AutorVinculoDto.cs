@@ -1,10 +1,8 @@
-﻿namespace LivrosApi.Dto;
+﻿namespace LivrosApi.Dto.Vinculo;
 
-public class AutorEdicaoDto
+public class AutorVinculoDto
 {
     public int Id { get; set; }
-    
     public string Nome { get; set; }
-    
     public string Sobrenome { get; set; }
 }
